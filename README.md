@@ -33,5 +33,5 @@ Feel free to fork this repository and submit pull requests with improvements.
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-- Dataset: [Parkinson_Classification_Dataset]([https://archive.ics.uci.edu/ml/datasets/Parkinsons](https://huggingface.co/datasets/XANJEEV/Parkinson_Classification_Dataset))
+- Dataset: [Parkinson_Classification_Dataset](https://huggingface.co/datasets/XANJEEV/Parkinson_Classification_Dataset)
 - Machine learning libraries: Scikit-learn, TensorFlow
