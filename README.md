@@ -10,15 +10,11 @@ This project focuses on detecting Parkinson's disease using machine learning tec
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/parkinsons-detection.git
+   git clone https://github.com/sanjeev1508/Parkinson-Classification-using-CNN-and-Streamlit.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd parkinsons-detection
-   ```
-3. Install the required dependencies:
-   ```sh
-   pip install -r requirements.txt
+   cd Parkinson-Classification-using-CNN-and-Streamlit
    ```
 
 ## Usage
@@ -26,7 +22,6 @@ This project focuses on detecting Parkinson's disease using machine learning tec
    ```sh
    python main.py
    ```
-2. Modify parameters in `config.py` for tuning the model.
 
 ## Dataset
 The dataset used in this project includes biomedical voice measurements from individuals with and without Parkinson's disease.
@@ -38,5 +33,5 @@ Feel free to fork this repository and submit pull requests with improvements.
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-- Dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Parkinsons)
+- Dataset: [Parkinson_Classification_Dataset]([https://archive.ics.uci.edu/ml/datasets/Parkinsons](https://huggingface.co/datasets/XANJEEV/Parkinson_Classification_Dataset))
 - Machine learning libraries: Scikit-learn, TensorFlow
